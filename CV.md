@@ -6,7 +6,7 @@ permalink: /CV
 
 # Sarah Popp
 
-popps@iu.edu <br>
+popps (at) iu (dot) edu <br>
 Indiana University Department of Astronomy <br>
 
 ## Education
