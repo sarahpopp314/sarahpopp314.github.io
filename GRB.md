@@ -17,4 +17,4 @@ I analyzed data from the Swift X-Ray Telescope for the afterglows of 81 short ga
 
 ***
 
-[Back](research.md) • [Home](README.md)
+[Back](research.md) • [Home](README.md) • [About](about.md) • [CV](CV.md) • [Contact](contact.md)
