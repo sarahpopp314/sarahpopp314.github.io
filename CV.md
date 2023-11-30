@@ -80,3 +80,66 @@ Society Meeting, poster presentation
 - Introductory astronomy course for non-majors (taught online asynchronously)
 - Duties included preparing reading material and assignments, grading assignments, and holding weekly office hours
 - Approximately 30 students
+
+**Associate Instructor: A107 The Art of Astronomy** • Spring 2023<br>
+*Instructor of Record: Dr. Zack Maas • Indiana University*
+- Introductory astronomy course for non-majors (taught online asynchronously)
+- Duties included grading assignments and holding weekly office hours
+- Approximately 150 students
+
+**Associate Instructor: A100 The Solar System** • Fall 2022<br>
+*Instructor of Record: Dr. Phyllis Lugger • Indiana University*
+- Introductory astronomy course for non-majors (taught online asynchronously)
+- Duties included grading assignments and holding weekly office hours
+- Approximately 150 students
+
+**Associate Instructor: A107 The Art of Astronomy** • Spring 2022<br>
+*Instructor of Record: Dr. Liese van Zee • Indiana University*
+- Introductory astronomy course for non-majors (taught online asynchronously)
+- Duties included grading assignments and holding weekly office hours
+- Approximately 150 students
+
+**Associate Instructor: A105 Stars and Galaxies** • Fall 2021<br>
+*Instructor of Record: Dr. Phyllis Lugger • Indiana University*
+- Introductory astronomy course for non-majors (taught online asynchronously)
+- Duties included grading assignments and holding weekly office hours
+- Approximately 150 students
+
+**Undergraduate Lab Instructor: ASTR111 Stars and Galaxies Lab** • Spring 2021, 2020, 2019<br>
+*Instructor of Record: Dr. Aaron Steinhauer • SUNY Geneseo*
+- Introductory astronomy course for non-majors
+- Lead instructor for small lab section
+- Duties included grading assignments, giving pre-lab lectures, and assisting students as they completed the labs
+- Approximately 20 students
+
+**Undergraduate Lab Instructor: ASTR106 The Solar System Lab** • Fall 2020, 2019, 2018<br>
+*Instructor of Record: Dr. Anne Pellerin • SUNY Geneseo*
+- Introductory astronomy course for non-majors
+- Lead instructor for small lab section
+- Duties included grading assignments, giving pre-lab lectures, and assisting students as they completed the labs
+- Approximately 20 students
+
+**Supplemental Instructor: ASTR110 Stars and Galaxies** • Spring 2021, 2019<br>
+*Instructor of Record: Dr. Aaron Steinhauer • SUNY Geneseo*
+- Introductory astronomy course for non-majors
+- Duties included holding weekly review sessions and assisting students with homework
+- Approximately 120 students
+
+**Supplemental Instructor: PHYS125 Analytical Physics II** • Spring 2020<br>
+*Instructors of Record: Dr. Charlie Freeman and Dr. Anne Pellerin • SUNY Geneseo*
+- Introductory electricty & magnetism course for physics majors
+- Duties included holding weekly review sessions and assisting students with homework
+- Approximately 60 students
+
+**Supplemental Instructor: ASTR105 The Solar System** • Fall 2019<br>
+*Instructor of Record: Dr. Anne Pellerin • SUNY Geneseo*
+- Introductory astronomy course for non-majors
+- Duties included holding weekly review sessions and assisting students with homework
+- Approximately 120 students
+
+**Physics Learning Center Tutor** • August 2018-May 2021<br>
+*Advisor: Dr. Ed Pogozelski • SUNY Geneseo*
+- Free physics tutoring for anyone taking physics classes
+- Duties included holding open tutoring sessions weekly and assisting students with homework
+
+**Private Physics and Astronomy Tutoring** • Fall 2019-Spring 2020
