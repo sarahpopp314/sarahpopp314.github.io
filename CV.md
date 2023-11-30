@@ -68,6 +68,11 @@ Society Meeting, poster presentation
 - 5 nights in March 2023. Observed remotely from Indiana University. **Role: Co-I**
 - 3 nights in December 2022. Observed remotely from Indiana University. **Role: Co-I**
 
+**WIYN 0.9m Half Degree Imager**<br>
+*Kitt Peak National Observatory • Tucson, Arizona*
+- 4 nights in January 2020. **Role: Undergraduate research assistant**
+- 7 nights in June 2018. **Role: Undergraduate research assistant**
+
 ## Teaching Experience
 
 **Instructor of Record: A100 The Solar System** • Summer 2023<br>
