@@ -176,3 +176,7 @@ SUNY Geneseo Dean's List • *Fall 2020, Fall 2017-Fall 2019*<br>
 SUNY Geneseo Physics Department Alumni Award • *May 2020*<br>
 Sigma Pi Sigma Physics Honor Society Inductee • *January 2020*<br>
 SUNY Geneseo Physics Department Robert "Duke" Sells Memorial Scholarship • *May 2019*
+
+***
+
+[Home](README.md) • [About](about.md) • [Research](research.md) • Contact • Cat Pictures
