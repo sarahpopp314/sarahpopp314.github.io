@@ -1,3 +1,3 @@
-# sarahpopp314.github.io
+# Sarah Popp
 
 working on a website
