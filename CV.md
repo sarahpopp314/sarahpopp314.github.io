@@ -165,3 +165,14 @@ Society Meeting, poster presentation
 
 **Programming Languages:** Python<br>
 **Software:** IRAF, SAOImage DS9, Mathematica, Microsoft Office, LaTeX
+
+## Honors and Awards
+
+Indiana University Fall 2023 College of Arts and Sciences Travel Award ($1500) • *November 2023*<br>
+SUNY Geneseo Physics Department American Meteor Society Award • *May 2021*<br>
+SUNY Geneseo President's List • *Spring 2021*<br>
+Phi Beta Kappa Honor Society Inductee • *May 2021*<br>
+SUNY Geneseo Dean's List • *Fall 2020, Fall 2017-Fall 2019*<br>
+SUNY Geneseo Physics Department Alumni Award • *May 2020*<br>
+Sigma Pi Sigma Physics Honor Society Inductee • *January 2020*<br>
+SUNY Geneseo Physics Department Robert "Duke" Sells Memorial Scholarship • *May 2019*
