@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "WIYN Open Cluster Study"
-permalink: /WOCS
+permalink: /research/WOCS
 ---
 
 ##Photometry of Open Clusters NGC 2420 and NGC 2506
