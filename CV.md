@@ -143,3 +143,25 @@ Society Meeting, poster presentation
 - Duties included holding open tutoring sessions weekly and assisting students with homework
 
 **Private Physics and Astronomy Tutoring** • Fall 2019-Spring 2020
+
+## Outreach Experience
+
+**Outreach Coordinator** • July 2023-Present<br>
+*Indiana University*
+- Worked with community leaders to organize department outreach events
+- Coordinated volunteers for outreach events
+- Ran @iuastro Twitter account with ~2000 followers
+
+**Great Lakes Exoplanet Area Meeting Local Organizing Committee** • October 2023<br>
+*Indiana University*
+- Designed posters, name badges, and other graphics
+- Staffed registration desk
+
+**Kirkwood Observatory Open House** • August 2021-Present<br>
+*Indiana University*
+- Worked with other graduate student volunteers to hold public open house nights at Kirkwood Observatory
+
+## Skills
+
+**Programming Languages:** Python<br>
+**Software:** IRAF, SAOImage DS9, Mathematica, Microsoft Office, LaTeX
