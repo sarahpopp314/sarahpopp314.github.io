@@ -12,4 +12,4 @@ Outside of astronomy, Sarah plays violin, has too many craft projects in progres
 
 ***
 
-[Home](./) • [Research](research.md) • [CV](CV.md) • [Contact](Contact.md)
+[Home](./) • [Research](research.md) • [CV](CV.md) • [Contact](contact.md)
