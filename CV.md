@@ -179,4 +179,4 @@ SUNY Geneseo Physics Department Robert "Duke" Sells Memorial Scholarship • *Ma
 
 ***
 
-[Home](README.md) • [About](about.md) • [Research](research.md) • Contact • Cat Pictures
+[Home](README.md) • [About](about.md) • [Research](research.md) • [Contact](contact.md)
