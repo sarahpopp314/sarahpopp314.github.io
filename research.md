@@ -13,4 +13,4 @@ I am an observational astronomer interested in star clusters and stellar evoluti
 
 ***
 
-[Home](./)
+[Home](README.md) • [About](about.md) • [CV](CV.md) • [Contact](contact.md)
