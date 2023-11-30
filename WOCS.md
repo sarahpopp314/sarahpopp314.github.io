@@ -17,4 +17,6 @@ Advisor: Dr. Aaron Steinhauer (Undergraduate Research)
 
 As an undergraduate, I was part of a team that observed several star clusters with the WIYN 0.9m telescope at Kitt Peak National Observatory. I performed UBVRI PSF photometry for these clusters using IRAF.
 
-[Back](research.md) | [Home](README.md)
+***
+
+[Back](research.md) • [Home](README.md)
