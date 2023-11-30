@@ -11,4 +11,4 @@ permalink: /contact
 
 ***
 
-[Home](README.md) • [About](about.md) • [Research](research.md) • [CV](CV.md) • Cat Pictures
+[Home](README.md) • [About](about.md) • [Research](research.md) • [CV](CV.md)
