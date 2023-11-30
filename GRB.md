@@ -12,6 +12,9 @@ I analyzed data from the Swift X-Ray Telescope for the afterglows of 81 short ga
 
 ### Publications
 
-[Rouco Escorial et al. 2023](https://iopscience.iop.org/article/10.3847/1538-4357/acf830)
-
+[Rouco Escorial et al. 2023](https://iopscience.iop.org/article/10.3847/1538-4357/acf830) <br>
 [Project Website](https://cierareu.northwestern.edu/2020CIERA_REU_websites/SarahPopp/index.html)
+
+***
+
+[Back](research.md) • [Home](README.md)
