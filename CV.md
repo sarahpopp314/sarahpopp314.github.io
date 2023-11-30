@@ -1,3 +1,9 @@
+---
+layout: default
+title: "CV"
+permalink: /CV
+---
+
 # Sarah Popp
 
 popps@iu.edu <br>
