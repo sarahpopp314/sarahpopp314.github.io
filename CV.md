@@ -168,7 +168,7 @@ Society Meeting, poster presentation
 
 ## Honors and Awards
 
-Executive Dean’s Travel Award for Women in Science ($600) • *December 2023*<br>
+Indiana University Executive Dean’s Travel Award for Women in Science ($600) • *December 2023*<br>
 Indiana University Fall 2023 College of Arts and Sciences Travel Award ($1500) • *November 2023*<br>
 SUNY Geneseo Physics Department American Meteor Society Award • *May 2021*<br>
 SUNY Geneseo President's List • *Spring 2021*<br>
