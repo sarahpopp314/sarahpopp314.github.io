@@ -63,6 +63,7 @@ Society Meeting, poster presentation
 
 **WIYN 3.5m Hydra Multi-Object Spectrograph**<br>
 *Kitt Peak National Observatory • Tucson, Arizona*
+- 2.5 nights in December 2023. Observed remotely from Indiana Univeristy. **Role: Co-PI**
 - 0.5 nights in October 2023 awarded to Caty Pilachowski; shared with our group due to previous time lost to instrument malfunctions. Observed remotely from Indiana University. **Role: Co-I**
 - Awarded 2 nights in October 2023. Unable to observe due to instrument malfunctions. **Role: Co-PI**
 - 5 nights in March 2023. Observed remotely from Indiana University. **Role: Co-I**
