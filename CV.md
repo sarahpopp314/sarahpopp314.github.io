@@ -179,6 +179,13 @@ Society Meeting, poster presentation
 *Indiana University*
 - Worked with other graduate student volunteers to hold public open house nights at Kirkwood Observatory
 
+## Professional Development
+
+**Code/Astro Workshop** • July 2024<br>
+*Northwestern University/CIERA*
+- Intensive workshop for software development in astronomy
+- Developed and released a python package: [GalPal](https://github.com/rhoward314/galpal)
+
 ## Skills
 
 **Programming Languages:** Python<br>
