@@ -155,13 +155,13 @@ Society Meeting, poster presentation
 
 ## Outreach and Science Communication Experience
 
-**[ScIU](https://blogs.iu.edu/sciu/) Social Media Chair (IU's Science Communication Blog)** • January 2024-Present
+**[ScIU](https://blogs.iu.edu/sciu/) Social Media Chair (IU's Science Communication Blog)** • January 2024-Present<br>
 *Indiana University*
 - Supervised undergraduate social media interns
 - Taught science communication course for undergraduate interns
 - Oversaw @sciublog social media accounts on [Twitter/X](https://x.com/ScIUBlog) (~400 followers), [Instagram](https://www.instagram.com/sciublog/) (~200 followers), and [Facebook](https://www.facebook.com/sciublog) (~400 followers)
 
-**Astronomy on Tap Speaker** • September 2024
+**Astronomy on Tap Speaker** • September 2024<br>
 *Looking at the Final Frontier: Real World Astronomy in Star Trek*
 
 **Outreach Coordinator** • July 2023-July 2024<br>
