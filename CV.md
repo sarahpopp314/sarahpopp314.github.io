@@ -12,7 +12,7 @@ Indiana University Department of Astronomy <br>
 ## Education
 
 **Indiana University** • Bloomington, Indiana<br>
-*Ph.D., Astronomy, Physics minor • Anticipated 2026*
+*Ph.D., Astronomy, Physics minor • Anticipated 2027*
 
 **State University of New York (SUNY) at Geneseo** • Geneseo, New York<br>
 *B.A., Physics, Mathematics minor, summa cum laude • May 2021*
@@ -54,7 +54,7 @@ of Short Gamma-ray Bursts from Late-time X-ray Afterglows*, DOI: 10.3847/1538-43
 **Conference Presentations**<br>
 - **S. Popp**, C. Deliyannis, D. Ornelas, A. Steinhauer, B. Anthony-Twarog, B. Twarog; *WIYN Open Cluster
 Study: UBVRI Photometry of NGC 2420 and NGC 2506*; 2024; 243rd American Astronomyical Society
-Meeting; poster presentation (*upcoming; accepted for presentation*)
+Meeting; poster presentation
 - D. Cesario, R. Farnsworth, **S. Popp**, L. Fillhart, L. Finn, S. Giri, A. Steinhauer, C. Deliyannis, & A. Pellerin;
 *WIYN Open Cluster Study: Photometry of the Open Cluster NGC 6603*; 2019; 233rd American Astronomical
 Society Meeting, poster presentation
@@ -63,7 +63,9 @@ Society Meeting, poster presentation
 
 **WIYN 3.5m Hydra Multi-Object Spectrograph**<br>
 *Kitt Peak National Observatory • Tucson, Arizona*
-- 2.5 nights in December 2023. Observed remotely from Indiana Univeristy. **Role: Co-PI**
+- Awarded 3 nights in January 2025. **Role: PI**
+- 5.5 nights in March 2024. **Role: Co-PI**
+- 2.5 nights in December 2023. Observed remotely from Indiana University. **Role: Co-PI**
 - 0.5 nights in October 2023 awarded to Caty Pilachowski; shared with our group due to previous time lost to instrument malfunctions. Observed remotely from Indiana University. **Role: Co-I**
 - Awarded 2 nights in October 2023. Unable to observe due to instrument malfunctions. **Role: Co-PI**
 - 5 nights in March 2023. Observed remotely from Indiana University. **Role: Co-I**
@@ -75,6 +77,12 @@ Society Meeting, poster presentation
 - 7 nights in June 2018. **Role: Undergraduate research assistant**
 
 ## Teaching Experience
+
+**Associate Instructor: A115 Birth & Death of the Universe** • Fall 2024<br>
+*Instructor of Record: Dr. Caty Pilachowski • Indiana University*<br>
+- Introductory astronomy course for non-majors
+- Duties included grading assignments and holding weekly office hours
+- Approximately 180 students
 
 **Instructor of Record: A100 The Solar System** • Summer 2023<br>
 *Faculty Mentor: Dr. Zack Maas • Indiana University*<br>
@@ -145,9 +153,18 @@ Society Meeting, poster presentation
 
 **Private Physics and Astronomy Tutoring** • Fall 2019-Spring 2020
 
-## Outreach Experience
+## Outreach and Science Communication Experience
 
-**Outreach Coordinator** • July 2023-Present<br>
+**[ScIU](https://blogs.iu.edu/sciu/) Social Media Chair (IU's Science Communication Blog)** • January 2024-Present
+*Indiana University*
+- Supervised undergraduate social media interns
+- Taught science communication course for undergraduate interns
+- Oversaw @sciublog social media accounts on [Twitter/X](https://x.com/ScIUBlog) (~400 followers), [Instagram](https://www.instagram.com/sciublog/) (~200 followers), and [Facebook](https://www.facebook.com/sciublog) (~400 followers)
+
+**Astronomy on Tap Speaker** • September 2024
+*Looking at the Final Frontier: Real World Astronomy in Star Trek*
+
+**Outreach Coordinator** • July 2023-July 2024<br>
 *Indiana University*
 - Worked with community leaders to organize department outreach events
 - Coordinated volunteers for outreach events
