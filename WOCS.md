@@ -8,12 +8,15 @@ permalink: /research/WOCS
 
 Advisor: Dr. Constantine Deliyannis
 
+I am measuring lithium abundances of select stars in NGC 2420 and NGC 2506 using the Hydra multi-object spectrograph on the WIYN 3.5m telescope.
+
 ## UBVRI Photometry of Open Clusters NGC 2420 and NGC 2506
 
-Advisor: Dr. Con Deliyannis
+Advisor: Dr. Constantine Deliyannis
 
-I am currently working on a detailed photometric study of two metal-poor open clusters, NGC 2420 and NGC 2506. 
-I will be presenting this research at the 243rd American Astronomical Society Meeting in January 2024.
+I have performed a detailed photometric study of two metal-poor open clusters, NGC 2420 and NGC 2506. Paper coming soon!
+
+[AAS iPoster (January 2024)](https://aas243-aas.ipostersessions.com/Default.aspx?s=11-84-74-5B-D4-1F-06-C8-B2-85-8E-83-00-51-1A-F3)
 
 ## Undergraduate Research: Open Cluster Photometry
 
