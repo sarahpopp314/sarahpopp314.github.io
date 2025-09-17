@@ -4,7 +4,11 @@ title: "WIYN Open Cluster Study"
 permalink: /research/WOCS
 ---
 
-## Photometry of Open Clusters NGC 2420 and NGC 2506
+## Lithium Abundances in the Old, Moderately Metal-poor Open Clusters NGC 2420 and NGC 2506
+
+Advisor: Dr. Constantine Deliyannis
+
+## UBVRI Photometry of Open Clusters NGC 2420 and NGC 2506
 
 Advisor: Dr. Con Deliyannis
 
