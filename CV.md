@@ -13,6 +13,7 @@ Indiana University Department of Astronomy <br>
 
 **Indiana University** • Bloomington, Indiana<br>
 *Ph.D., Astronomy, Physics minor • Anticipated 2027*
+*M.A., Astronomy • August 2025*
 
 **State University of New York (SUNY) at Geneseo** • Geneseo, New York<br>
 *B.A., Physics, Mathematics minor, summa cum laude • May 2021*
@@ -22,6 +23,7 @@ Indiana University Department of Astronomy <br>
 **WIYN Open Cluster Study** • August 2021-Present<br>
 *Advisor: Dr. Constantine Deliyannis • Indiana University*<br>
 - Graduate research assistant
+- Measured lithium abundances in select stars using IRAF
 - Performed UBVRI PSF photometry using IRAF
 - Contributed major edits to our photometry manual as we switched to a new virtual desktop system
 
@@ -48,12 +50,14 @@ Astrophysical Journal, Vol 959, Issue 1, Page 13, Title: *The Jet Opening Angle 
 of Short Gamma-ray Bursts from Late-time X-ray Afterglows*, DOI: 10.3847/1538-4357/acf830
 
 **Talks**<br>
+- **S. Popp**, *Lithium in the old, moderately metal-poor open clusters NGC 2420 and NGC 2506*, 2025, Indiana University Astronomy Tea Talk
 - **S. Popp**, *The X-Ray Afterglows of Short Gamma-Ray Bursts*, 2021, Indiana University Astronomy Lunch Talk, virtual talk
-- **S. Popp**, *The X-Ray Afterglows of Short Gamma-Ray Bursts*, 2020, SUNY Geneseo Physics Colloquium
+- **S. Popp**, *The X-Ray Afterglows of Short Gamma-Ray Bursts*, 2020, SUNY Geneseo Physics Colloquium, virtual talk
 
 **Conference Presentations**<br>
+- **S. Popp**, C. Deliyannis, D. Ornelas, R. Howard, D. Dougan, A. Steinhauer, B. Twarog, B. Anthony-Twarog; *Lithium in the Old, Moderately Metal-Poor Open Clusters NGC 2420 and NGC 2506*; 2026; 247th American Astronomical Society Meeting; poster presentation (submitted)
 - **S. Popp**, C. Deliyannis, D. Ornelas, A. Steinhauer, B. Anthony-Twarog, B. Twarog; *WIYN Open Cluster
-Study: UBVRI Photometry of NGC 2420 and NGC 2506*; 2024; 243rd American Astronomyical Society
+Study: UBVRI Photometry of NGC 2420 and NGC 2506*; 2024; 243rd American Astronomical Society
 Meeting; poster presentation
 - D. Cesario, R. Farnsworth, **S. Popp**, L. Fillhart, L. Finn, S. Giri, A. Steinhauer, C. Deliyannis, & A. Pellerin;
 *WIYN Open Cluster Study: Photometry of the Open Cluster NGC 6603*; 2019; 233rd American Astronomical
@@ -63,7 +67,9 @@ Society Meeting, poster presentation
 
 **WIYN 3.5m Hydra Multi-Object Spectrograph**<br>
 *Kitt Peak National Observatory • Tucson, Arizona*
-- Awarded 3 nights in January 2025. **Role: PI**
+- Awarrded 1 night in January 2026. **Role: Co-PI**
+- 2 nights in March 2025. Observed remotely from Indiana University. **Role: Co-I**
+- 3 nights in January 2025. Observed remotely from Indiana University. **Role: PI**
 - 5.5 nights in March 2024. **Role: Co-PI**
 - 2.5 nights in December 2023. Observed remotely from Indiana University. **Role: Co-PI**
 - 0.5 nights in October 2023 awarded to Caty Pilachowski; shared with our group due to previous time lost to instrument malfunctions. Observed remotely from Indiana University. **Role: Co-I**
@@ -71,12 +77,28 @@ Society Meeting, poster presentation
 - 5 nights in March 2023. Observed remotely from Indiana University. **Role: Co-I**
 - 3 nights in December 2022. Observed remotely from Indiana University. **Role: Co-I**
 
+**MMT Hectochelle Multi-Object Spectrograph**<br>
+*MMT Observatory, Mt. Hopkins • Tucson, Arizona*
+- 8 hours in Spring 2025. Queue observing. **Role: Co-PI**
+
 **WIYN 0.9m Half Degree Imager**<br>
 *Kitt Peak National Observatory • Tucson, Arizona*
 - 4 nights in January 2020. **Role: Undergraduate research assistant**
 - 7 nights in June 2018. **Role: Undergraduate research assistant**
 
 ## Teaching Experience
+
+**Guest Lecturer: A115 Birth & Death of the Universe • Fall 2025**
+*Instructor of Record: Dr. Caty Pilachowski • Indiana University*
+- Topics: Stars, Star clusters, Stellar evolution
+- Introductory astronomy course for non-majors
+- Approximately 240 students
+
+**Associate Instructor: A107 The Art of Astronomy** • Spring 2025, 2023, 2022<br>
+*Instructor of Record: Dr. Zack Maas (2025, 2023); Dr. Liese van Zee (2022) • Indiana University*
+- Introductory astronomy course for non-majors (taught online asynchronously)
+- Duties included grading assignments and holding weekly office hours
+- Approximately 180 students
 
 **Associate Instructor: A115 Birth & Death of the Universe** • Fall 2024<br>
 *Instructor of Record: Dr. Caty Pilachowski • Indiana University*<br>
@@ -90,20 +112,8 @@ Society Meeting, poster presentation
 - Duties included preparing reading material and assignments, grading assignments, and holding weekly office hours
 - Approximately 30 students
 
-**Associate Instructor: A107 The Art of Astronomy** • Spring 2023<br>
-*Instructor of Record: Dr. Zack Maas • Indiana University*
-- Introductory astronomy course for non-majors (taught online asynchronously)
-- Duties included grading assignments and holding weekly office hours
-- Approximately 150 students
-
 **Associate Instructor: A100 The Solar System** • Fall 2022<br>
 *Instructor of Record: Dr. Phyllis Lugger • Indiana University*
-- Introductory astronomy course for non-majors (taught online asynchronously)
-- Duties included grading assignments and holding weekly office hours
-- Approximately 150 students
-
-**Associate Instructor: A107 The Art of Astronomy** • Spring 2022<br>
-*Instructor of Record: Dr. Liese van Zee • Indiana University*
 - Introductory astronomy course for non-majors (taught online asynchronously)
 - Duties included grading assignments and holding weekly office hours
 - Approximately 150 students
@@ -155,36 +165,68 @@ Society Meeting, poster presentation
 
 ## Outreach and Science Communication Experience
 
+**Astronomy Department Outreach Coordinator** • July 2023-July 2024; August 2025-Present<br>
+*Indiana University*
+- Worked with community leaders to organize department outreach events
+- Coordinated volunteers for outreach events
+- Ran @iuastro Twitter/X and Bluesky accounts with ~2000 followers
+
 **[ScIU](https://blogs.iu.edu/sciu/) Social Media Chair (IU's Science Communication Blog)** • January 2024-Present<br>
 *Indiana University*
 - Supervised undergraduate social media interns
 - Taught science communication course for undergraduate interns
 - Oversaw @sciublog social media accounts on [Twitter/X](https://x.com/ScIUBlog) (~400 followers), [Instagram](https://www.instagram.com/sciublog/) (~200 followers), and [Facebook](https://www.facebook.com/sciublog) (~400 followers)
 
+**ScIU Editor** • January 2024-Present<br>
+*Indiana University*
+
 **Astronomy on Tap Speaker** • September 2024<br>
 *Looking at the Final Frontier: Real World Astronomy in Star Trek*
 
-**Outreach Coordinator** • July 2023-July 2024<br>
+**PyIU: A Workshop Series on Python Essentials Organizing Committee** • Fall 2023-Present<br>
 *Indiana University*
-- Worked with community leaders to organize department outreach events
-- Coordinated volunteers for outreach events
-- Ran @iuastro Twitter account with ~2000 followers
+- Organized workshops to teach Python to undergraduates at IU
+- Developed interactive Python demos to teach coding skills
 
 **Great Lakes Exoplanet Area Meeting Local Organizing Committee** • October 2023<br>
 *Indiana University*
 - Designed posters, name badges, and other graphics
 - Staffed registration desk
 
+**Community Outreach Events**<br>
+*Indiana University*
+- Indianapolis Children's Museum STEM Exploration Day (organized as Outreach Coordinator); September 2023, September 2025
+- Star Party with Monroe County Parks & Recreation; November 2024, April 2025
+- April 2024 Total Solar Eclipse
+- Brown County Junior Indiana Master Naturalits Afterschool Program (organized as Outreach Coordinator); October 2023
+
+**Indiana University Science Fest** • October 2021-Present<br>
+*Indiana University*
+- As Outreach Coordinator (Fall 2023 and Fall 2025), organizes all IU Astronomy Science Fest activities
+- Staffed an IU Astronomy booth and ran an astronomy demo
+
 **Kirkwood Observatory Open House** • August 2021-Present<br>
 *Indiana University*
 - Worked with other graduate student volunteers to hold public open house nights at Kirkwood Observatory
 
-## Professional Development
+## Conferences and Professional Development
+
+**247th Meeting of the American Astronomical Society** • January 4-8, 2026<br>
+*Phoenix, Arizona*
 
 **Code/Astro Workshop** • July 2024<br>
 *Northwestern University/CIERA*
 - Intensive workshop for software development in astronomy
 - Developed and released a python package: [GalPal](https://github.com/rhoward314/galpal)
+
+**243rd Meeting of the American Astronomical Society** • January 8-12, 2024<br>
+*New Orleans, Louisiana*
+- Conference volunteer
+
+**Member, American Astronomical Society** • Fall 2021-Present
+
+**233rd Meeting of the American Astronomical Society** • January 6-10, 2019<br>
+*Seattle, Washington*
 
 ## Skills
 
@@ -193,6 +235,7 @@ Society Meeting, poster presentation
 
 ## Honors and Awards
 
+Indiana Space Grant Outreach Award (PyIU, $5500) • *July 2025* <br>
 Indiana University Executive Dean’s Travel Award for Women in Science ($600) • *December 2023*<br>
 Indiana University Fall 2023 College of Arts and Sciences Travel Award ($1500) • *November 2023*<br>
 SUNY Geneseo Physics Department American Meteor Society Award • *May 2021*<br>
@@ -202,6 +245,10 @@ SUNY Geneseo Dean's List • *Fall 2020, Fall 2017-Fall 2019*<br>
 SUNY Geneseo Physics Department Alumni Award • *May 2020*<br>
 Sigma Pi Sigma Physics Honor Society Inductee • *January 2020*<br>
 SUNY Geneseo Physics Department Robert "Duke" Sells Memorial Scholarship • *May 2019*
+
+***
+
+*Last updated: October 8, 2025*
 
 ***
 
