@@ -56,7 +56,7 @@ of Short Gamma-ray Bursts from Late-time X-ray Afterglows*, DOI: 10.3847/1538-43
 
 **Conference Presentations**<br>
 - **S. Popp**, C. Deliyannis, D. Ornelas, R. Howard, D. Dougan, A. Steinhauer, B. Twarog, B. Anthony-Twarog; *Lithium in the Old, Moderately Metal-Poor Open Clusters NGC 2420 and NGC 2506*; 2026; 247th American Astronomical Society Meeting; [iPoster presentation](https://aas242-aas.ipostersessions.com/?s=41-CF-09-82-16-3F-A3-D3-CD-76-10-C3-51-4B-D9-F8)
-- B. Radzom, K. Baker, L. Gault, **S. Popp**, A. Binau; **PyIU: A Python Workshop Series to Forge Future Astronomers in Indiana**; 2026; 247th American Astronomical Society Meeting; [iPoster presentation](https://aas242-aas.ipostersessions.com/?s=9F-29-BD-E4-E5-B9-C9-2C-53-CE-AA-03-E0-06-1F-ED)
+- B. Radzom, K. Baker, L. Gault, **S. Popp**, A. Binau; *PyIU: A Python Workshop Series to Forge Future Astronomers in Indiana*; 2026; 247th American Astronomical Society Meeting; [iPoster presentation](https://aas242-aas.ipostersessions.com/?s=9F-29-BD-E4-E5-B9-C9-2C-53-CE-AA-03-E0-06-1F-ED)
 - **S. Popp**, C. Deliyannis, D. Ornelas, A. Steinhauer, B. Anthony-Twarog, B. Twarog; *WIYN Open Cluster
 Study: UBVRI Photometry of NGC 2420 and NGC 2506*; 2024; 243rd American Astronomical Society
 Meeting; [iPoster presentation](https://aas243-aas.ipostersessions.com/Default.aspx?s=11-84-74-5B-D4-1F-06-C8-B2-85-8E-83-00-51-1A-F3)
