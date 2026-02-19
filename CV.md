@@ -188,6 +188,7 @@ Society Meeting, poster presentation
 **PyIU: A Workshop Series on Python Essentials Organizing Committee** • Fall 2023-Present<br>
 *Indiana University*
 - Organized workshops to teach Python to undergraduates at IU
+- Lectured on astronomy background at introductory workshops
 - Developed interactive Python demos to teach coding skills
 
 **Great Lakes Exoplanet Area Meeting Local Organizing Committee** • October 2023<br>
