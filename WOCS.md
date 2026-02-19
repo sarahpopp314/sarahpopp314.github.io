@@ -10,6 +10,8 @@ Advisor: Dr. Constantine Deliyannis
 
 I am measuring lithium abundances of select stars in NGC 2420 and NGC 2506 using the Hydra multi-object spectrograph on the WIYN 3.5m telescope.
 
+[AAS iPoster (January 2026)](https://aas242-aas.ipostersessions.com/?s=41-CF-09-82-16-3F-A3-D3-CD-76-10-C3-51-4B-D9-F8)
+
 ## UBVRI Photometry of Open Clusters NGC 2420 and NGC 2506
 
 Advisor: Dr. Constantine Deliyannis
