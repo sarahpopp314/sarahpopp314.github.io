@@ -12,7 +12,7 @@ Indiana University Department of Astronomy <br>
 ## Education
 
 **Indiana University** • Bloomington, Indiana<br>
-*Ph.D., Astronomy, Physics minor • Anticipated 2027*
+*Ph.D., Astronomy, Physics minor • Anticipated 2027*<br>
 *M.A., Astronomy • August 2025*
 
 **State University of New York (SUNY) at Geneseo** • Geneseo, New York<br>
@@ -55,7 +55,7 @@ of Short Gamma-ray Bursts from Late-time X-ray Afterglows*, DOI: 10.3847/1538-43
 - **S. Popp**, *The X-Ray Afterglows of Short Gamma-Ray Bursts*, 2020, SUNY Geneseo Physics Colloquium, virtual talk
 
 **Conference Presentations**<br>
-- **S. Popp**, C. Deliyannis, D. Ornelas, R. Howard, D. Dougan, A. Steinhauer, B. Twarog, B. Anthony-Twarog; *Lithium in the Old, Moderately Metal-Poor Open Clusters NGC 2420 and NGC 2506*; 2026; 247th American Astronomical Society Meeting; poster presentation (submitted)
+- **S. Popp**, C. Deliyannis, D. Ornelas, R. Howard, D. Dougan, A. Steinhauer, B. Twarog, B. Anthony-Twarog; *Lithium in the Old, Moderately Metal-Poor Open Clusters NGC 2420 and NGC 2506*; 2026; 247th American Astronomical Society Meeting; poster presentation
 - **S. Popp**, C. Deliyannis, D. Ornelas, A. Steinhauer, B. Anthony-Twarog, B. Twarog; *WIYN Open Cluster
 Study: UBVRI Photometry of NGC 2420 and NGC 2506*; 2024; 243rd American Astronomical Society
 Meeting; poster presentation
@@ -67,10 +67,11 @@ Society Meeting, poster presentation
 
 **WIYN 3.5m Hydra Multi-Object Spectrograph**<br>
 *Kitt Peak National Observatory • Tucson, Arizona*
-- Awarrded 1 night in January 2026. **Role: Co-PI**
+- 1 night in February 2026. Observed remotely from Indiana University **Role: Co-PI**
+- 1 night in January 2026. Observed remotely from Indiana University **Role: Co-PI**
 - 2 nights in March 2025. Observed remotely from Indiana University. **Role: Co-I**
 - 3 nights in January 2025. Observed remotely from Indiana University. **Role: PI**
-- 5.5 nights in March 2024. **Role: Co-PI**
+- 5.5 nights in March 2024. Observed in person at Kitt Peak. **Role: Co-PI**
 - 2.5 nights in December 2023. Observed remotely from Indiana University. **Role: Co-PI**
 - 0.5 nights in October 2023 awarded to Caty Pilachowski; shared with our group due to previous time lost to instrument malfunctions. Observed remotely from Indiana University. **Role: Co-I**
 - Awarded 2 nights in October 2023. Unable to observe due to instrument malfunctions. **Role: Co-PI**
@@ -79,6 +80,7 @@ Society Meeting, poster presentation
 
 **MMT Hectochelle Multi-Object Spectrograph**<br>
 *MMT Observatory, Mt. Hopkins • Tucson, Arizona*
+- 10 hours in Spring 2026. Queue observing. **Role: Co-PI**
 - 8 hours in Spring 2025. Queue observing. **Role: Co-PI**
 
 **WIYN 0.9m Half Degree Imager**<br>
@@ -171,13 +173,13 @@ Society Meeting, poster presentation
 - Coordinated volunteers for outreach events
 - Ran @iuastro Twitter/X and Bluesky accounts with ~2000 followers
 
-**[ScIU](https://blogs.iu.edu/sciu/) Social Media Chair (IU's Science Communication Blog)** • January 2024-Present<br>
+**[ScIU](https://blogs.iu.edu/sciu/) Social Media Chair (IU's Science Communication Blog)** • January 2024-August 2025<br>
 *Indiana University*
 - Supervised undergraduate social media interns
 - Taught science communication course for undergraduate interns
 - Oversaw @sciublog social media accounts on [Twitter/X](https://x.com/ScIUBlog) (~400 followers), [Instagram](https://www.instagram.com/sciublog/) (~200 followers), and [Facebook](https://www.facebook.com/sciublog) (~400 followers)
 
-**ScIU Editor** • January 2024-Present<br>
+**ScIU Editor** • January 2024-August 2025<br>
 *Indiana University*
 
 **Astronomy on Tap Speaker** • September 2024<br>
@@ -202,7 +204,7 @@ Society Meeting, poster presentation
 
 **Indiana University Science Fest** • October 2021-Present<br>
 *Indiana University*
-- As Outreach Coordinator (Fall 2023 and Fall 2025), organizes all IU Astronomy Science Fest activities
+- As Outreach Coordinator (Fall 2023 and Fall 2025), organized all IU Astronomy Science Fest activities
 - Staffed an IU Astronomy booth and ran an astronomy demo
 
 **Kirkwood Observatory Open House** • August 2021-Present<br>
@@ -248,7 +250,7 @@ SUNY Geneseo Physics Department Robert "Duke" Sells Memorial Scholarship • *Ma
 
 ***
 
-*Last updated: October 8, 2025*
+*Last updated: February 19, 2026*
 
 ***
 
