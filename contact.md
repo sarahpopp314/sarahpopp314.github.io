@@ -6,8 +6,7 @@ permalink: /contact
 
 **Email:** popps (at) iu (dot) edu<br>
 **Outreach inquiries:** astoutre (at) indiana (dot) edu<br>
-**Twitter:** @twinsunsfour<br>
-**Bluesky:** @twinsunsfour.bsky.social<br>
+**Bluesky:** [@twinsunsfour.bsky.social](https://bsky.app/profile/twinsunsfour.bsky.social)<br>
 
 ***
 
