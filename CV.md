@@ -55,13 +55,14 @@ of Short Gamma-ray Bursts from Late-time X-ray Afterglows*, DOI: 10.3847/1538-43
 - **S. Popp**, *The X-Ray Afterglows of Short Gamma-Ray Bursts*, 2020, SUNY Geneseo Physics Colloquium, virtual talk
 
 **Conference Presentations**<br>
-- **S. Popp**, C. Deliyannis, D. Ornelas, R. Howard, D. Dougan, A. Steinhauer, B. Twarog, B. Anthony-Twarog; *Lithium in the Old, Moderately Metal-Poor Open Clusters NGC 2420 and NGC 2506*; 2026; 247th American Astronomical Society Meeting; poster presentation
+- **S. Popp**, C. Deliyannis, D. Ornelas, R. Howard, D. Dougan, A. Steinhauer, B. Twarog, B. Anthony-Twarog; *Lithium in the Old, Moderately Metal-Poor Open Clusters NGC 2420 and NGC 2506*; 2026; 247th American Astronomical Society Meeting; [iPoster presentation](https://aas242-aas.ipostersessions.com/?s=41-CF-09-82-16-3F-A3-D3-CD-76-10-C3-51-4B-D9-F8)
+- B. Radzom, K. Baker, L. Gault, **S. Popp**, A. Binau; **PyIU: A Python Workshop Series to Forge Future Astronomers in Indiana**; 2026; 247th American Astronomical Society Meeting; [iPoster presentation](https://aas242-aas.ipostersessions.com/?s=9F-29-BD-E4-E5-B9-C9-2C-53-CE-AA-03-E0-06-1F-ED)
 - **S. Popp**, C. Deliyannis, D. Ornelas, A. Steinhauer, B. Anthony-Twarog, B. Twarog; *WIYN Open Cluster
 Study: UBVRI Photometry of NGC 2420 and NGC 2506*; 2024; 243rd American Astronomical Society
-Meeting; poster presentation
+Meeting; [iPoster presentation](https://aas243-aas.ipostersessions.com/Default.aspx?s=11-84-74-5B-D4-1F-06-C8-B2-85-8E-83-00-51-1A-F3)
 - D. Cesario, R. Farnsworth, **S. Popp**, L. Fillhart, L. Finn, S. Giri, A. Steinhauer, C. Deliyannis, & A. Pellerin;
 *WIYN Open Cluster Study: Photometry of the Open Cluster NGC 6603*; 2019; 233rd American Astronomical
-Society Meeting, poster presentation
+Society Meeting, poster presentation. 
 
 ## Observing Experience
 
@@ -185,7 +186,7 @@ Society Meeting, poster presentation
 **Astronomy on Tap Speaker** • September 2024<br>
 *Looking at the Final Frontier: Real World Astronomy in Star Trek*
 
-**PyIU: A Workshop Series on Python Essentials Organizing Committee** • Fall 2023-Present<br>
+**[PyIU: A Workshop Series on Python Essentials Organizing Committee](https://github.com/BrandonRadzom/pyiu)** • Fall 2023-Present<br>
 *Indiana University*
 - Organized workshops to teach Python to undergraduates at IU
 - Lectured on astronomy background at introductory workshops
