@@ -6,9 +6,7 @@ permalink: /about
 
 Sarah Popp (they/them) is a fifth-year astronomy Ph.D. candidate at Indiana University in Bloomington, and the department Outreach Coordinator. 
 They are passionate about outreach, education, and science communication.
-Outside of astronomy, Sarah plays violin, has too many craft projects in progress, and hangs out with their cat Moon.
-
-![sarah with moon on their shoulder](sarah_moon.JPG)
+Outside of astronomy, Sarah plays violin with the [Bloomington Symphony Orchestra](https://www.bloomingtonsymphony.com/), has too many craft projects in progress, and hangs out with their cat Moon.
 
 ***
 
